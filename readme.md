@@ -1,70 +1,65 @@
-[<p align="center">  
-  <a href="https://files.catbox.moe/51qa9o.jpg">
-    <img alt="secktor docs" height="300" src="https://files.catbox.moe/51qa9o.jpg">
-    <h1 align="center"> TOXIC LOVER MD - POWERED BY TOXIC LOVER MD</h1>
+<p align="center">
+  <img src="https://files.catbox.moe/fbpw8g.jpg" alt="PKXMD-BOT" width="100%">
+</p>
+
+# 🚀 **PKXMD-BOT** – The Ultimate WhatsApp Bot 🤖🔥  
+
+> **A next-level multi-functional WhatsApp bot with automation, AI capabilities, media tools, and advanced controls!**  
+> Designed for **speed, security, and efficiency**, PKXMD-BOT enhances your WhatsApp experience like never before.  
+
+---
+
+## 🎯 **Why Choose PKXMD-BOT?**  
+
+🔹 **Blazing Fast Responses** – No lag, just instant replies.  
+🔹 **AI-Powered Smart Bot** – Engages in real conversations.  
+🔹 **Advanced Group Controls** – Auto-welcome, anti-link, anti-spam & more.  
+🔹 **Unlimited Media Downloads** – YouTube, Instagram, Facebook & more.  
+🔹 **Custom Stickers & GIFs** – Convert images, videos & emojis into stickers.  
+🔹 **Auto-Reaction & Status Reply** – Engages with users automatically.  
+🔹 **Secure & Reliable** – Optimized for performance and safety.  
+🔹 **Fully Open-Source** – Modify & customize as you like!  
+
+---
+
+## 🌍 **Official Links & Community**  
+
+> 🔥 **Join the PKXMD-BOT Network!** Stay updated & connected.  
+
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x">
+    <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-</p>  
+  <a href="https://www.instagram.com/pk_tech01?igsh=MTM0Y2p3ZHpxMXZraA==">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100091580206517">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@Pktech-1911">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://t.me/pkservicesbot">
+    <img src="https://img.shields.io/badge/Telegram-Group-0088CC?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
+
+📞 **Contact on WhatsApp:** [+254785392165](https://wa.me/254785392165)  
 
 ---
 
+## ⚡ **Deploy Your Own PKXMD-BOT**  
+
+> 🔥 **Easily Deploy & Run PKXMD-BOT on Your Server**  
+
 <p align="center">
-  <a href="https://buymeacoffee.com/toxiclovermd" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+  <a href="https://heroku.com/deploy">
+    <img src="https://img.shields.io/badge/Deploy%20to-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  </a>
+  <a href="https://your-session-link.com">
+    <img src="https://img.shields.io/badge/Get%20Session-Now-00C853?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/toxiclovermd"><img title="Author" src="https://img.shields.io/badge/toxiclovermd-black?style=for-the-badge&logo=Github"></a> 
-  <a href="https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26"><img title="Channel" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> 
-  <a href="https://wa.me/25471077266"><img title="Chat" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/toxiclovermd?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/toxiclovermd?label=Followers&style=social"></a>
-  <a href="https://github.com/toxiclovermd/BMW-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/toxiclovermd/BMW-MD?&style=social"></a>
-  <a href="https://github.com/toxiclovermd/BMW-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/toxiclovermd/BMW-MD?style=social"></a>
-  <a href="https://github.com/toxiclovermd/BMW-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/toxiclovermd/BMW-MD?label=Watching&style=social"></a>
-</p>
-
----
-
-## 🚀 GET SESSION
-
-<p align="center">
-  <a href="https://toxic-lover.onrender.com">
-    <img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-blue?style=for-the-badge&logo=bmw" width="220" height="38.45"/>
-  </a>
-</p>
-
----
-
-## 🧚‍♂️ TOXIC LOVER MD'S DEPLOYMENT OPTIONS
-
-### 🔹 DEPLOY ON HEROKU
-
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/toxiclover-tech/TOXIC-LOVER-MD)
-  
-### 🔹 DEPLOY ON OTHER PLATFORMS
-- **Render:**  
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://render.com)
-
-- **ToyStack:**  
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://toystack.ai)
-
-- **Koyeb:**  
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://koyeb.com)
-
----
-
-## ⚡ TOXIC LOVER MD BOT INFO  
-🚗 **High Performance** - Optimized for speed and efficiency  
-🛡️ **Secure** - Built-in security mechanisms  
-🔄 **Auto Updates** - Stay up-to-date with the latest improvements  
-⚙️ **Customization** - Fully configurable settings  
-
----
-
-**© 2025 TOXIC LOVER MD | Built with ❤️ by TOXIC LOVER MD**
-](https://github.com/toxiclover-tech/TOXIC-LOVER-MD/tree/main)
