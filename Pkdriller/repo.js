@@ -8,7 +8,7 @@ const formatNumber = (num) => num.toLocaleString();
 // Function to fetch detailed GitHub repository information
 const fetchGitHubRepoDetails = async () => {
     try {
-        const repo = 'toxiclover-tech/TOXIC-LOVER-MD'; // Updated repo
+        const repo = 'Pkdriller/PKXMD-BOT'; // Updated repo
         const response = await axios.get(`https://api.github.com/repos/${repo}`);
         const {
             name, description, forks_count, stargazers_count,
@@ -16,7 +16,7 @@ const fetchGitHubRepoDetails = async () => {
         } = response.data;
 
         return {
-            name,
+            name: "PKXMD-BOT", // Updated repo name
             description: description || "No description provided",
             forks: forks_count,
             stars: stargazers_count,
@@ -71,7 +71,7 @@ commands.forEach((command) => {
             // Send the follow-up image first with a caption
             await zk.sendMessage(dest, {
                 image: { url: "https://files.catbox.moe/k3pmh3.jpg" }, // Updated image
-                caption: `✨ Repository Highlights ✨\n\n🛠️ Developed by *TOXIC-LOVER-MD*\n\nRepo URL:\nhttps://github.com/toxiclover-tech/TOXIC-LOVER-MD`,
+                caption: `✨ Repository Highlights ✨\n\n🛠️ Developed by *PKXMD-BOT*\n\nRepo URL:\nhttps://github.com/Pkdriller/PKXMD-BOT`,
             });
 
             // Follow up with the GitHub repository details
