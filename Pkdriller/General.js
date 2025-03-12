@@ -59,7 +59,7 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🚘" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-        { nom: "TOXIC LOVER", numero: "254717263689" },
+        { nom: "PKXMD-BOT", numero: "254710772666 " },
         { nom: "᚛Ibrahim Adams᚜", numero: "254710772666" },
         { nom: "Adams kenya", numero: "254727716045" },
         // Add more developers here with their names and numbers
