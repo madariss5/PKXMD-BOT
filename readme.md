@@ -45,7 +45,7 @@
   </a>
 </p>
 
-📞 **Contact on WhatsApp:** [+254785392165](https://wa.me/254785392165)  
+📞 **Contact on WhatsApp:** [Mr Pkdriller](https://wa.me/254785392165)  
 
 ---
 
@@ -54,13 +54,13 @@
 > 🔥 **Easily Deploy & Run PKXMD-BOT on Your Server**  
 
 <p align="center">
-  <a href="https://heroku.com/deploy">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Pkdriller/PKXMD-BOT">
     <img src="https://img.shields.io/badge/Deploy%20to-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   </a>
-  <a href="https://your-session-link.com">
+  <a href="https://pkdriller-scanner.onrender.com">
     <img src="https://img.shields.io/badge/Get%20Session-Now-00C853?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
 
 ---
-
+****
