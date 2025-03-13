@@ -54,7 +54,7 @@ ${readMore}
 
     menuMsg += `\n✨ *PKXMD-BOT - Developed by The Best!* ✨`;  
 
-    let imageUrl = "https://files.catbox.moe/k3pmh3.jpg";  
+    let imageUrl = "https://files.catbox.moe/fbpw8g.jpg";  
 
     try {  
         zk.sendMessage(dest, {   
