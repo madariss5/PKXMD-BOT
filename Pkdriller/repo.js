@@ -70,7 +70,7 @@ commands.forEach((command) => {
         try {
             // Send the follow-up image first with a caption
             await zk.sendMessage(dest, {
-                image: { url: "https://files.catbox.moe/k3pmh3.jpg" }, // Updated image
+                image: { url: "https://files.catbox.moe/fbpw8g.jpg" }, // Updated image
                 caption: `✨ Repository Highlights ✨\n\n🛠️ Developed by *PKXMD-BOT*\n\nRepo URL:\nhttps://github.com/Pkdriller/PKXMD-BOT`,
             });
 
