@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/YFvqwz8Y/lordcasey.jpg" alt="PKXMD-BOT" width="100%">
+  <img src="https://files.catbox.moe/jzquph.jpg" alt="PKXMD-BOT" width="100%">
 </p>
 
 # 🚀 **PKXMD-BOT** – The Ultimate WhatsApp Bot 🤖🔥  
