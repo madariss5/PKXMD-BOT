@@ -47,20 +47,29 @@
 
 📞 **Contact on WhatsApp:** [Mr Pkdriller](https://wa.me/254785392165)  
 
----
 
-## ⚡ **Deploy Your Own PKXMD-BOT**  
+# Setup For Deployment 👇
 
-> 🔥 **Easily Deploy & Run PKXMD-BOT on Your Server**  
+## Fork the repo
+    
+<div align="center">
+    <a href="https://github.com/Pkdriller/PKXMD-BOT/fork">
+        <img title="PKXMD" src="https://img.shields.io/badge/FORK%20PK%20MD-FF5733?style=for-the-badge&logo=stackshare" />
+    </a>
 
+
+### Pair with WhatsApp
+  <div align="center">
+    <a href="https://pkdriller-scanner.onrender.com">
+        <img title="PKXMD Session ID" src="https://img.shields.io/badge/GET%20SESSION-FF5733?style=for-the-badge&logo=msi&logoColor=white" width="220" height="38.45" />
+    </a>
+</div>
+  
+  
+<h2 style="color: #8E44AD; font-family: 'Courier New';">DEPLOY TO HEROKU</h2>
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Pkdriller/PKXMD-BOT">
-    <img src="https://img.shields.io/badge/Deploy%20to-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  </a>
-  <a href="https://pkdriller-scanner.onrender.com">
-    <img src="https://img.shields.io/badge/Get%20Session-Now-00C853?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
+    <a href="https://dashboard.heroku.com/new?template=https://github.com/Pkdriller/PKXMD-BOT">
+        <img src="https://img.shields.io/badge/Heroku%20Deploy-9B59B6?style=for-the-badge&logo=heroku" width="220" height="38.45" />
+    </a>
 </p>
-
----
-****
+<br>
