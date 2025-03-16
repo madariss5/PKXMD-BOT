@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="https://t.me/pkservicesbot">
-    <img src="https://img.shields.io/badge/Telegram-Group-0088CC?style=for-the-badge&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
 
