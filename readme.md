@@ -52,7 +52,7 @@
 ## ⚡ **Deploy Your Own PKXMD-BOT**  
 
 > 🔥 **Easily Deploy & Run PKXMD-BOT on Your Server**  
-FORK THE REPOSITORY (Repo)     <br><a href="https://github.com/Pkdriller/PKXMD-BOT
+
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Pkdriller/PKXMD-BOT">
     <img src="https://img.shields.io/badge/Deploy%20to-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
