@@ -33,14 +33,14 @@ Powered by TOXIC-LOVER-MD`);
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   TOXIC-LOVER-MD║
+║   TOXIC-PKXMD-BOT║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by 𝐂𝐇𝐀𝐑𝐋𝐄𝐒 𝐊𝐄`);
+Powered by PKXMD-BOT`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
