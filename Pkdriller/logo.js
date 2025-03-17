@@ -258,7 +258,7 @@ zokou({ nomCom: "logo", categorie: "Search", reaction: "✋" }, async (dest, zk,
         if (logoUrl) {
           await zk.sendMessage(dest, {
             image: { url: logoUrl },
-            caption: `*POWERED BY CASEYRHODES-XMD*`,
+            caption: `*POWERED BY PKXMD-BOT*`,
           }, { quoted: ms });
         }
       }
