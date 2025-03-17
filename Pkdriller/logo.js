@@ -71,7 +71,7 @@ zokou({ nomCom: "logo", categorie: "Search", reaction: "✋" }, async (dest, zk,
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
         title: "🌟𝐏𝐊 𝐗𝐌𝐃 ✨",
-        body: "Regards, 𝗖𝗔𝗦𝗘𝗬𝗥𝗛𝗢𝗗𝗘𝗦🫅",
+        body: "Regards, PKDRILLER🫅",
         thumbnailUrl: "https://i.ibb.co/YFvqwz8Y/lordcasey.jpg",
         sourceUrl: "https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E",
         mediaType: 1,
